@@ -1,0 +1,15 @@
+﻿  Informer.cpp
+  MainWindow.cpp
+C:\Users\Валентин\source\repos\CourseWork\CourseWork\EnterGuard.h(324,1): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Валентин\source\repos\CourseWork\CourseWork\FightWindow.h(410,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Player.cpp
+  Security.cpp
+C:\Users\Валентин\source\repos\CourseWork\CourseWork\Security.cpp(121,31): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Валентин\source\repos\CourseWork\CourseWork\Security.cpp(132,38): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Валентин\source\repos\CourseWork\CourseWork\Security.cpp(138,32): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Валентин\source\repos\CourseWork\CourseWork\Security.cpp(152,31): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Валентин\source\repos\CourseWork\CourseWork\Security.cpp(169,30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Валентин\source\repos\CourseWork\CourseWork\Security.cpp(180,31): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  Создание кода...
+  Equipment.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  CourseWork.vcxproj -> C:\Users\Валентин\source\repos\CourseWork\Debug\CourseWork.exe
