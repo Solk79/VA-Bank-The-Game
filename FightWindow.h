@@ -4,7 +4,7 @@
 #include "Informer.h"
 #include "Terrorist.h"
 
-const int ENEMIES_COUNT[] = { 1, 1, 2, 3, 4, 3, 4, 3, 4, 6 };							// константа: кількість ворогів на кожному раунді asdf
+const int ENEMIES_COUNT[] = { 1, 1, 2, 3, 4, 3, 4, 3, 4, 6 };							// константа: кількість ворогів на кожному раунді
 const int WIN_REWARD[] = { 2100, 2800, 3500, 4100, 5700, 5300, 6000, 5100, 6200, 0};	// константа: нагорода за перемогу
 
 namespace CourseWork {
